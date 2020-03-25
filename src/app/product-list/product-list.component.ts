@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-
 import { products } from '../products';
 
 @Component({
@@ -12,6 +11,9 @@ export class ProductListComponent {
 
   share() {
     window.alert('El Producto ha sido compartido!');
+  }
+  onNotify() {
+    window.alert('Tu has sido notificado el producto va a venta');
   }
 }
 
