@@ -9,6 +9,16 @@ export const products = [
     price: 699,
     description: 'A great phone with one of the best cameras'
   },
+    {
+    name: 'Samsung Galaxy',
+    price: 430,
+    description: 'A great phone with one of the best cameras'
+  },
+    {
+    name: 'Nokia 342',
+    price: 800,
+    description: 'A great phone with one of the best cameras'
+  },
   {
     name: 'Phone Standard',
     price: 299,
